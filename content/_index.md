@@ -90,8 +90,8 @@ sections:
   - title: Email
     text: user@Hyperspace.tld
     url: "#"
-  - title: Phone
-    text: "(000) 000-0000"
+  - title: Téléphone
+    text: "(+33) 83 72 27 39 03"
     url: ''
   social:
     title: Social
