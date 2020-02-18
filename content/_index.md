@@ -78,7 +78,7 @@ sections:
   component: features.html
 - type: contact
   template: contact
-  title: Contact
+  title: Accès
   text: |-
     La section de bla bla avec des trucs qui sont du bla bla et encore plus de bla bla
 
@@ -93,9 +93,6 @@ sections:
       Le Mas
       83718 Le Mas
     url: ''
-  - title: Email
-    text: user@Hyperspace.tld
-    url: "#"
   - title: Téléphone
     text: "(+33) 83 72 27 39 03"
     url: ''
@@ -118,6 +115,17 @@ sections:
       icon: fa-linkedin
       url: "#"
   component: contact.html
+- template: contact
+  title: Contact Section
+  section_id: three
+  background_style: style1
+  component: contact.html
+  type: contact
+  text: ''
+  contact_list: []
+  social:
+    title: ''
+    social_icons: []
 layout: home
 menu:
   main:
