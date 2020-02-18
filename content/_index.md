@@ -75,12 +75,15 @@ sections:
   component: features.html
 - type: contact
   template: contact
-  title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  title: Contact
+  text: |-
+    La section de bla bla avec des trucs qui sont du bla bla et encore plus de bla bla
+
+    ***
+
+    _La même chose mais en anglais_
   section_id: three
-  background_style: style1
+  background_style: style2
   contact_list:
   - title: Adresse
     text: |-
