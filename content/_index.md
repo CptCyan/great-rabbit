@@ -78,7 +78,7 @@ sections:
   component: features.html
 - template: intro
   title: Accès
-  section_id: intro
+  section_id: three
   background_style: style1
   component: intro.html
   type: intro
