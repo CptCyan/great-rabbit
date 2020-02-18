@@ -33,7 +33,7 @@ sections:
   component: intro.html
 - type: spotlights
   template: spotlights
-  title: Tarifs
+  title: Qui sommes-nous
   section_id: one
   background_style: style2
   component: spotlights.html
