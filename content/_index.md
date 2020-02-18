@@ -11,7 +11,7 @@ sidebar:
   - title: Le Parc
     url: "#two"
     is_primary: false
-  - title: Get in touch
+  - title: Contact
     url: "#three"
     is_primary: false
 sections:
