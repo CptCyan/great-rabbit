@@ -2,7 +2,7 @@
 title: The Big Bad Site
 baseURL: "/"
 params:
-  palette: purple
+  palette: green
   palettes:
     blue:
       sass:
