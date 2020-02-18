@@ -39,7 +39,7 @@ sections:
   component: spotlights.html
 - type: features
   template: features
-  title: Le Parc
+  title: Nos Installations
   subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
     bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
