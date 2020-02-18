@@ -76,30 +76,6 @@ sections:
     is_scrolly: false
     is_primary: false
   component: features.html
-- type: contact
-  template: contact
-  title: Accès
-  text: |-
-    La section de bla bla avec des trucs qui sont du bla bla et encore plus de bla bla
-
-    ***
-
-    _La même chose mais en anglais_
-  section_id: three
-  background_style: style2
-  contact_list:
-  - title: Adresse
-    text: |-
-      Le Mas
-      83718 Le Mas
-    url: ''
-  - title: Téléphone
-    text: "(+33) 83 72 27 39 03"
-    url: ''
-  social:
-    title: Social
-    social_icons: []
-  component: contact.html
 - template: contact
   title: Contact
   section_id: four
@@ -114,6 +90,14 @@ sections:
   social:
     title: ''
     social_icons: []
+- template: intro
+  title: Accès
+  section_id: intro
+  background_style: style1
+  component: intro.html
+  type: intro
+  subtitle: ''
+  actions: []
 layout: home
 menu:
   main:
