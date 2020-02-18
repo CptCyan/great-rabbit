@@ -76,6 +76,14 @@ sections:
     is_scrolly: false
     is_primary: false
   component: features.html
+- template: intro
+  title: Accès
+  section_id: intro
+  background_style: style1
+  component: intro.html
+  type: intro
+  subtitle: ''
+  actions: []
 - template: contact
   title: Contact
   section_id: four
@@ -90,14 +98,6 @@ sections:
   social:
     title: ''
     social_icons: []
-- template: intro
-  title: Accès
-  section_id: intro
-  background_style: style1
-  component: intro.html
-  type: intro
-  subtitle: ''
-  actions: []
 layout: home
 menu:
   main:
