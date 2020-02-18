@@ -8,7 +8,7 @@ sidebar:
   - title: L'Association
     url: "#one"
     is_primary: false
-  - title: Le Parc
+  - title: Nos installations
     url: "#two"
     is_primary: false
   - title: Accès
