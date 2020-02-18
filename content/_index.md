@@ -15,7 +15,7 @@ sidebar:
     url: "#three"
     is_primary: false
   - title: Contact
-    url: "#three"
+    url: "#four"
     is_primary: false
 sections:
 - type: intro
