@@ -101,13 +101,16 @@ sections:
     social_icons: []
   component: contact.html
 - template: contact
-  title: Contact Section
-  section_id: three
+  title: Contact
+  section_id: four
   background_style: style1
   component: contact.html
   type: contact
   text: ''
-  contact_list: []
+  contact_list:
+  - text: ''
+    url: ''
+    title: Email
   social:
     title: ''
     social_icons: []
