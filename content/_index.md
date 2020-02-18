@@ -8,7 +8,7 @@ sidebar:
   - title: Qui sommes-nous
     url: "#one"
     is_primary: false
-  - title: What we do
+  - title: Le Parc
     url: "#two"
     is_primary: false
   - title: Get in touch
