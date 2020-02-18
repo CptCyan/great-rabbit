@@ -5,7 +5,7 @@ sidebar:
   - title: Nouveautés
     url: "#intro"
     is_primary: true
-  - title: Qui sommes-nous
+  - title: L'Association
     url: "#one"
     is_primary: false
   - title: Le Parc
