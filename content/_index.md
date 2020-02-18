@@ -33,7 +33,7 @@ sections:
   component: intro.html
 - type: spotlights
   template: spotlights
-  title: Qui sommes-nous
+  title: L'association
   section_id: one
   background_style: style2
   component: spotlights.html
