@@ -98,22 +98,7 @@ sections:
     url: ''
   social:
     title: Social
-    social_icons:
-    - title: Twitter
-      icon: fa-twitter
-      url: "#"
-    - title: Facebook
-      icon: fa-facebook
-      url: "#"
-    - title: GitHub
-      icon: fa-github
-      url: "#"
-    - title: Instagram
-      icon: fa-instagram
-      url: "#"
-    - title: LinkedIn
-      icon: fa-linkedin
-      url: "#"
+    social_icons: []
   component: contact.html
 - template: contact
   title: Contact Section
