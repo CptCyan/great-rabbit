@@ -2,7 +2,7 @@
 title: Home
 sidebar:
   entries:
-  - title: Nouveautés
+  - title: News
     url: "#intro"
     is_primary: true
   - title: L'Association
