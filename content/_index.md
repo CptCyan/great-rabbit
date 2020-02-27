@@ -44,9 +44,8 @@ sections:
   section_id: two
   background_style: style3
   features_list:
-  - title: Lorem ipsum amet
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Plein de cibles 3D
+    text: Réparties sur 1 hectare et placées stratégiquement
     icon: fa-code
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
@@ -68,11 +67,7 @@ sections:
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-diamond
-  actions:
-  - label: Learn more
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   component: features.html
 - template: intro
   title: Accès
