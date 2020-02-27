@@ -1,5 +1,5 @@
 +++
-content_img_path = "images/pic04.jpg"
+content_img_path = "/images/parc-01-2020.jpg"
 layout = "page"
 title = "Du sport et de la détente"
 [home_spotlights]
