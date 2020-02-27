@@ -21,12 +21,10 @@ sections:
 - type: intro
   template: intro
   title: News
-  subtitle: |-
-    _Hiver 2020_
-
-    Le Parc de tir est actuellement ouvert sur réservation de 9h à 17h.
-
-    Pensez à vous équiper en fonction des conditions météo !
+  subtitle: "_Hiver 2020_\n\nPensez à vous équiper en fonction des conditions météo
+    ! \n\nPour les extérieurs à l'association, le Parc est ouvert, sur réservation,
+    les week-end de 10h à 17h.\n\nPour les membres, sur réservation, tous les jours
+    de 10h à 17h."
   section_id: intro
   background_style: style1
   actions: []
