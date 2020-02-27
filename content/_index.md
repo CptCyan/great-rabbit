@@ -53,7 +53,7 @@ sections:
   - title: Pour tous
     text: Toutes les cibles 3D du parc diposent de différents pas de tir. Plus besoin
       de se séparer pour tirer en groupe, quelque soit votre niveau !
-    icon: fa-pied-piper-hat
+    icon: fa-map-signs
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
