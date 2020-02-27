@@ -46,7 +46,7 @@ sections:
   features_list:
   - title: Plein de cibles 3D
     text: Réparties sur 1 hectare et placées stratégiquement
-    icon: fa-code
+    icon: fa-route
   - title: Pas de tir
     text: Pour une séance
     icon: fa-hourglass-half
