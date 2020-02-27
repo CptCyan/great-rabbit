@@ -47,26 +47,17 @@ sections:
   - title: Plein de cibles 3D
     text: Réparties sur 1 hectare et placées stratégiquement
     icon: fa-code
-  - title: Aliquam sed nullam
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-lock
-  - title: Sed erat ullam corper
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-cog
+  - title: Pas de tir
+    text: Pour une séance
+    icon: fa-hourglass-half
+  - title: Pour tous
+    text: Toutes les cibles 3D du parc diposent de différents pas de tir. Plus besoin
+      de se séparer pour tirer en groupe, quelque soit votre niveau !
+    icon: fa-pied-piper-hat
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-desktop
-  - title: Urna quis bibendum
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-chain
-  - title: Aliquam urna dapibus
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-diamond
   actions: []
   component: features.html
 - template: intro
