@@ -1,6 +1,5 @@
 +++
 content_img_path = "images/pic04.jpg"
-draft = true
 layout = "page"
 title = "Du sport et de la détente"
 [home_spotlights]
