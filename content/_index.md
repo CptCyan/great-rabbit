@@ -20,16 +20,16 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: Nouveautés
-  subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
-    accumsan est arcu donec sed Eleifend Integer."
+  title: News
+  subtitle: |-
+    _Hiver 2020_
+
+    Le Parc de tir est actuellement ouvert sur réservation de 9h à 17h.
+
+    Pensez à vous équiper en fonction des conditions météo !
   section_id: intro
   background_style: style1
-  actions:
-  - label: Learn more
-    url: "#one"
-    is_scrolly: true
-    is_primary: false
+  actions: []
   component: intro.html
 - type: spotlights
   template: spotlights
