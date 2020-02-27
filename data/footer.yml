@@ -1,8 +1,10 @@
 ---
 landing_style: style1-alt
 alt_style: alt
-copyright: Association L'Arc d'Or
+copyright: 'Association L''Arc d''Or '
 links:
+- text: Office du Tourisme
+  new_window: true
 - text: Made with Stackbit
   url: https://www.stackbit.com
   new_window: true
