@@ -4,11 +4,11 @@ layout = "page"
 title = "Du sport et de la détente"
 [home_spotlights]
 enabled = true
-excerpt = "Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus."
+excerpt = "Tirez toute l'année en pleine nature"
 weight = 1
 [home_spotlights.home_img]
 data_position = "center center"
-path = "images/pic01.jpg"
+path = "/images/parc-01-2020.jpg"
 url = "#"
 
 +++
